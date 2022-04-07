@@ -1,0 +1,8 @@
+# Anotações importantes do Curso Primeiros Passos para Desenvolvimento WEB
+
+
+
+[Link para instalar o Xampp](https://www.apachefriends.org/pt_br/index.html)
+
+[LInk para Tutoriais W3School](https://www.w3schools.com/)
+
